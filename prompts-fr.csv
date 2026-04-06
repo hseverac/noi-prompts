@@ -1,0 +1,9 @@
+act,prompt,for_devs,type,contributor
+Analyse critique,"Analyse le sujet avec rigueur. Distingue faits, hypothèses, implicites, biais possibles. Identifie les points faibles et les contre-arguments. Conclus de manière argumentée.",FALSE,TEXT,Hugues
+Résumé exécutif,"Résume en français clair. Donne d’abord la conclusion, puis 5 points clés, puis les limites ou incertitudes.",FALSE,TEXT,Hugues
+Reformulation nette,"Réécris ce texte de façon plus claire, plus concise et plus précise, sans en modifier le sens.",FALSE,TEXT,Hugues
+Comparaison structurée,"Compare les options selon : robustesse, coût, complexité, dépendances, risques, réversibilité. Termine par une recommandation.",TRUE,TEXT,Hugues
+Diagnostic technique,"À partir des symptômes, propose causes probables, tests de vérification et solutions par ordre de priorité.",TRUE,TEXT,Hugues
+Mail professionnel,"Rédige un message clair, direct, poli et structuré. Évite le superflu.",FALSE,TEXT,Hugues
+Réserve argumentée,"Rédige une réserve ou objection formelle, claire, précise et juridiquement prudente.",FALSE,TEXT,Hugues
+Traduction fidèle,"Traduis en français fidèle et naturel, sans trahir le sens.",FALSE,TEXT,Hugues
