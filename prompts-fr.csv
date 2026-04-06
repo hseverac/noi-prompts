@@ -1,9 +1,23 @@
 act,prompt,for_devs,type,contributor
 Analyse critique,"Analyse le sujet avec rigueur. Distingue faits, hypothèses, implicites, biais possibles. Identifie les points faibles et les contre-arguments. Conclus de manière argumentée.",FALSE,TEXT,Hugues
 Résumé exécutif,"Résume en français clair. Donne d’abord la conclusion, puis 5 points clés, puis les limites ou incertitudes.",FALSE,TEXT,Hugues
+Résumé détaillé,"Fais un résumé structuré et complet. Organise en sections logiques, conserve les nuances importantes.",FALSE,TEXT,Hugues
 Reformulation nette,"Réécris ce texte de façon plus claire, plus concise et plus précise, sans en modifier le sens.",FALSE,TEXT,Hugues
+Simplification,"Explique ce contenu de manière simple, pédagogique, sans jargon, avec exemples si utile.",FALSE,TEXT,Hugues
 Comparaison structurée,"Compare les options selon : robustesse, coût, complexité, dépendances, risques, réversibilité. Termine par une recommandation.",TRUE,TEXT,Hugues
-Diagnostic technique,"À partir des symptômes, propose causes probables, tests de vérification et solutions par ordre de priorité.",TRUE,TEXT,Hugues
+Décision argumentée,"Propose une décision à partir des éléments fournis. Justifie avec critères explicites et analyse des risques.",TRUE,TEXT,Hugues
+Contre-arguments,"Adopte une posture critique. Donne les objections solides, angles morts et critiques possibles.",FALSE,TEXT,Hugues
+Plan d’action,"Transforme ce problème en plan d’action concret. Étapes ordonnées, priorités, risques, points de vigilance.",TRUE,TEXT,Hugues
+Diagnostic technique,"À partir des symptômes, propose causes probables, tests de vérification, et solutions par ordre de priorité.",TRUE,TEXT,Hugues
+Debug structuré,"Analyse le bug. Hypothèses → tests → correctifs. Va droit au plus probable.",TRUE,TEXT,Hugues
+Architecture technique,"Propose une architecture simple et robuste. Détaille composants, flux, dépendances et points critiques.",TRUE,TEXT,Hugues
+Audit rapide,"Évalue la qualité de ce système ou texte. Forces, faiblesses, risques, améliorations prioritaires.",TRUE,TEXT,Hugues
+Synthèse de discussion,"Résume cette discussion. Points d’accord, désaccords, zones floues, décisions.",FALSE,TEXT,Hugues
+Clarification,"Reformule les idées de façon structurée. Sépare clairement les points distincts.",FALSE,TEXT,Hugues
 Mail professionnel,"Rédige un message clair, direct, poli et structuré. Évite le superflu.",FALSE,TEXT,Hugues
 Réserve argumentée,"Rédige une réserve ou objection formelle, claire, précise et juridiquement prudente.",FALSE,TEXT,Hugues
+Analyse juridique simple,"Analyse les implications juridiques générales. Distingue ce qui est certain et incertain.",FALSE,TEXT,Hugues
 Traduction fidèle,"Traduis en français fidèle et naturel, sans trahir le sens.",FALSE,TEXT,Hugues
+Version courte / longue,"Fournis deux versions : une très concise, une détaillée et structurée.",FALSE,TEXT,Hugues
+Exploration d’idées,"Propose plusieurs pistes originales mais réalistes. Structure et hiérarchise.",FALSE,TEXT,Hugues
+Questionnement expert,"Pose les questions clés qui permettraient d’améliorer ou de clarifier le sujet.",FALSE,TEXT,Hugues
